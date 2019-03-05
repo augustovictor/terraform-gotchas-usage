@@ -1,1 +1,1 @@
-iam_users = ["admin_victor", "admin_tuna", "admin_neni"]
+iam_users = ["admin_production", "admin_staging", "admin_dev"]

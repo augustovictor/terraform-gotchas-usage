@@ -1,4 +1,4 @@
 variable "iam_users" {
-  description = "Users to create in IAM"
+  description = "Name of the users"
   type = "list"
 }
