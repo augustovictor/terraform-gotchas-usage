@@ -9,4 +9,4 @@
 - Create Roles, Groups, Users
 
 To add a new `aws-vault` profile: `aws-vault add <profile_name>`
-To list existing `aws-vault` profiles: `aws-vault list` 
+To list existing `aws-vault` profiles: `aws-vault list`
